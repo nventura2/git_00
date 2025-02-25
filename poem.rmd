@@ -19,11 +19,11 @@ you, if you change any of this the git program will notice it and compromise you
 "When midnight mists are creeping,
 And all the land is sleeping,
 Around me tread the mighty dead,
-And slowly pass away.
+And slowly pass away.  
 Lo, warriors, saints, and sages,
 From out the vanished ages,
 With solemn pace and reverend face
-Appear and pass away."
+Appear and pass away."  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -31,18 +31,18 @@ Appear and pass away."
 "Whose woods these are I think I know.   
 His house is in the village though;   
 He will not see me stopping here   
-To watch his woods fill up with snow.   
+To watch his woods fill up with snow.     
 My little horse must think it queer   
 To stop without a farmhouse near   
 Between the woods and frozen lake   
-The darkest evening of the year."
+The darkest evening of the year."  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
 "The sun was shining on the sea,
       Shining with all his might:
-He did his very best to make
+He did his very best to make  
       The billows smooth and bright —
 And this was odd, because it was
       The middle of the night."
@@ -51,21 +51,21 @@ And this was odd, because it was
 <!--Put a short poem of your choice 8-20 lines,here!-->
 
 "I'll tell you how the sun rose, -
-A ribbon at a time.
+A ribbon at a time.  
 The steeples swam in amethyst,
-The news like squirrels ran.
+The news like squirrels ran.  
 The hills untied their bonnets,
-The bobolinks begun.
+The bobolinks begun.  
 Then I said softly to myself,
-“That must have been the sun!”
+“That must have been the sun!”  
 
-But how he set, I know not.
+But how he set, I know not.  
 There seemed a purple stile
 Which little yellow boys and girls
-Were climbing all the while
+Were climbing all the while  
 
-Till when they reached the other side,
-A dominie in gray
-Put gently up the evening bars,
-And led the flock away."
+Till when they reached the other side,  
+A dominie in gray  
+Put gently up the evening bars,  
+And led the flock away."  
 - EMILY DICKINSON
